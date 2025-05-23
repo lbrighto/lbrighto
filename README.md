@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**lbrighto/lbrighto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Portfolio
 
-Here are some ideas to get you started:
+You can view my portfolio site here:  
+🔗 [lbrighto.github.io/portfolio-site](https://lbrighto.github.io/portfolio-site/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The site will showcase my future projects!
+
+## Currently working on
+
+- My Bachelor's degree in Business Administration from the University of Wisconsin-Parkside
+- A Business Analytics certificate alongside my main degree program
+- Expanding my comfort with Python, SQL, and Tableau
+- Creating end-to-end projects that showcase my growing skillset
+
+Thanks for visiting!
